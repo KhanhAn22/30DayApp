@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">30DayApp</string>
+    <string name="pho">Phở</string>
+    <string name="banhmi">Bánh Mì</string>
+    <string name="banhda">Bánh Đa</string>
+    <string name="buncha">Bún chả</string>
+    <string name="chaca">Chả cá</string>
+    <string name="com">Cớm</string>
+    <string name="goi">Gỏi</string>
+    <string name="nemcua">Nem cua</string>
+    <string name="thittrau">Thịt Trâu</string>
+    <string name="food_tip_pho">A beloved Vietnamese dish of aromatic beef noodle soup. This hearty meal combines flat rice noodles, thinly sliced beef, and a savory broth simmered with spices like star anise and cinnamon. Served with fresh herbs, lime, and chili, Phở is perfect for any time of the day.</string>
+    <string name="food_tip_banh_mi">A fusion of Vietnamese flavors with French influence, this baguette sandwich is filled with pâté, fresh herbs, pickled vegetables, and various protein options like grilled pork or chicken. Crunchy on the outside and soft inside, it is a popular street food across Vietnam.</string>
+    <string name="food_tip_banhda">A specialty from Hải Phòng, Bánh Đa features dark-colored rice noodles served in a rich broth with shrimp, crab, and fresh greens. The unique red-brown noodles add a distinct taste and are often enjoyed with fish cakes or tofu.</string>
+    <string name="food_tip_buncha">Originating from Hanoi, Bún chả is a flavorful dish of grilled pork served with vermicelli noodles, fresh herbs, and a tangy dipping sauce. Often accompanied by fried spring rolls, it’s a refreshing yet hearty meal.</string>
+    <string name="food_tip_chaca">This dish from Hanoi combines grilled fish marinated in turmeric, served with dill, spring onions, and noodles. Traditionally enjoyed at the table over a sizzling pan, it’s served with vermicelli, peanuts, and shrimp paste.</string>
+    <string name="food_tip_com">Made from young green rice, Cốm is a delicate and slightly sweet snack traditionally enjoyed in autumn. Often wrapped in lotus leaves for fragrance, it can be eaten alone, in desserts, or paired with ripe bananas.</string>
+    <string name="food_tip_goi">Vietnamese fresh salad, Gỏi combines shrimp, pork, herbs, and crunchy vegetables, dressed in a light fish sauce vinaigrette. It’s a colorful and refreshing appetizer with flavors that balance sweet, sour, salty, and spicy notes.</string>
+    <string name="food_tip_nemcua">Crispy crab spring rolls, Nem cua is a popular appetizer in Vietnam. Made with crab, pork, mushrooms, and vermicelli, these rolls are fried until golden and often enjoyed with dipping sauce and herbs.</string>
+    <string name="food_tip_thittrau">Grilled water buffalo meat, Thịt trâu is a specialty from the northern mountains of Vietnam. Marinated in spices and herbs, it’s known for its smoky flavor and chewy texture, often served with rice and chili salt.</string>
+    <string name="titleday1">Day 1</string>
+    <string name="titleday2">Day 2</string>
+    <string name="titleday3">Day 3</string>
+    <string name="titleday4">Day 4</string>
+    <string name="titleday5">Day 5</string>
+    <string name="titleday6">Day 6</string>
+    <string name="titleday7">Day 7</string>
+    <string name="titleday8">Day 8</string>
+    <string name="titleday9">Day 9</string>
+</resources>
